@@ -17,4 +17,4 @@ cd BASIC-SETUP
 python BASIC.py
 
 
-https://ibb.co/Px41GyR
+[![Screenshot-20240107-053637.jpg](https://i.postimg.cc/8cZcQbg1/Screenshot-20240107-053637.jpg)](https://postimg.cc/9wqCyZfS)
