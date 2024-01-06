@@ -15,3 +15,6 @@ git clone https://github.com/RIMON-143/BASIC-SETUP
 cd BASIC-SETUP
 
 python BASIC.py
+
+
+https://ibb.co/Px41GyR
