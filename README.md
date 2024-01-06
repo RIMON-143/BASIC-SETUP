@@ -1,5 +1,5 @@
 # BASIC-SETUP
-# BASIC INSTALL COMMANDE
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=270BF7&random=false&width=435&lines=BASIC+TOOLS)](https://git.io/typing-svg)
 # INSTALLING
 
 apt update 
